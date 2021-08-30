@@ -1,3 +1,14 @@
+An Integrated Business Planning Professional Blog~
+
+Developed and Designed by Matthew Murphy
+
+Owned by Debbie Climber
+
+Technologies utilized:
+ReactJs; 
+MaterialUI icons and components;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
