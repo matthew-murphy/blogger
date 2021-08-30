@@ -14,8 +14,8 @@ export default function SinglePost() {
         <h1 className="singlePostTitle">
           Lorem ipsum dolor sit amet consectetur
           <div className="singlePostEdit">
-            <EditIcon className="singlePostIcon" />
-            <HighlightOffIcon className="singlePostIcon" />
+            <EditIcon color="primary" className="singlePostIcon" />
+            <HighlightOffIcon color="secondary" className="singlePostIcon" />
           </div>
         </h1>
         <div className="singlePostInfo">
